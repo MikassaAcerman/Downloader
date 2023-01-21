@@ -1,0 +1,9 @@
+G:\Users\Administrator\Desktop\Downloader\Downloader\bin\Debug\Downloader.exe.config
+G:\Users\Administrator\Desktop\Downloader\Downloader\bin\Debug\Downloader.exe
+G:\Users\Administrator\Desktop\Downloader\Downloader\bin\Debug\Downloader.pdb
+G:\Users\Administrator\Desktop\Downloader\Downloader\obj\Debug\Downloader.csprojResolveAssemblyReference.cache
+G:\Users\Administrator\Desktop\Downloader\Downloader\obj\Debug\Downloader.Form1.resources
+G:\Users\Administrator\Desktop\Downloader\Downloader\obj\Debug\Downloader.Properties.Resources.resources
+G:\Users\Administrator\Desktop\Downloader\Downloader\obj\Debug\Downloader.csproj.GenerateResource.Cache
+G:\Users\Administrator\Desktop\Downloader\Downloader\obj\Debug\Downloader.exe
+G:\Users\Administrator\Desktop\Downloader\Downloader\obj\Debug\Downloader.pdb
